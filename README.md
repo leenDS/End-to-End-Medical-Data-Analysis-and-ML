@@ -1,6 +1,6 @@
 # End-to-End-Medical-Data-Analysis-and-ML
 
-# Medical Data Analysis & Diabetes Prediction Pipeline
+
 
 ## 📌 Project Overview
 This project focuses on performing an in-depth **Exploratory Data Analysis (EDA)** and building a predictive model for diabetes detection. The core value of this repository lies in the robust data preprocessing phase, where I addressed common real-world data challenges such as high class imbalance, outliers, and feature redundancy.
